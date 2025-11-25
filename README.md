@@ -63,7 +63,7 @@ Good luck and looking forward to meeting with you!
 ### Submitting your work
 
 1. You should have received a few GitHub usernames for Jukebox engineers who will be reviewing your work. Grant them access to your repo in GitHub.
-2. Create a new pull request to merge your work into the main branch
-    - Add the Jukebox engineers as reviewers
+    - This can be done by going to the repo Settings -> Collaborators and teams 
+3. Create a new pull request to merge your work into the main branch
     - Write a description of anything we should know and describing the work you did
-3. Let your interview coordinator know you are all done!
+4. Let your interview coordinator know you are all done!
